@@ -9,7 +9,7 @@ body {
   padding: 0;
   background: hsl(185, 75%, 39%);
   background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
-  background-position: -25vw -70vh, 60vw 55vh;
+  background-position: -15vw -70vh, 50vw 50vh;
   background-repeat: no-repeat;
   font-family: 'Kumbh Sans', sans-serif;
   color: hsl(0, 0%, 59%);
