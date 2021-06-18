@@ -68,9 +68,17 @@ body {
   font-weight: 400;
 }
 
+@media (max-width: 900px) {
+  body {
+    background-position: -50vw -90vh, 50vw 50vh;
+  }
+
+}
+
 @media (max-width: 500px) {
   body {
     background-position: -140vw -90vh, 40vw 40vh;
+    padding-top: 20vh;
   }
 
 }
