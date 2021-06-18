@@ -67,3 +67,10 @@ body {
 .stat h6{
   font-weight: 400;
 }
+
+@media (max-width: 500px) {
+  body {
+    background-position: -140vw -90vh, 40vw 40vh;
+  }
+
+}
